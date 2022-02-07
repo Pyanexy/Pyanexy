@@ -16,7 +16,6 @@
 ### **[Nutella Бот](https://discord.com/api/oauth2/authorize?client_id=938822820807467079&permissions=17216858176&scope=bot)** <br/>
 - Бот воспроизведения музыки на любом сервере!
 - Типы воспроизведения от а до я!
-<img aling="left" alt="YouTube" width="80px" src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" /> 
  Использование очень лёгкое **n!play(n!p) текст видео/ссылка на видео или плей лист** вот и всё
 <img aling="left" alt="Spotify" width="36px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-logo-transparent-vector-1.png" />
  Использование платформы Spotify очень распространённое **n!play(n!p) сыллка на трек или на альбом**
