@@ -1,5 +1,5 @@
-![welcome](https://i.imgur.com/6XHBC84.png) <br/>
-**[Discord.js обучение](https://discord.gg/Xy5FnS5rNd)**
+![welcome](https://media.discordapp.net/attachments/935879275339452567/940284126634868746/20220207_223226.png) <br/>
+# **[Discord.js обучение](https://discord.gg/Xy5FnS5rNd)**
 
 
 - Привет всем я **Pyanexy**!
