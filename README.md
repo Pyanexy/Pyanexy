@@ -17,4 +17,4 @@
 - Бот воспроизведения музыки на любом сервере!
 - Типы воспроизведения от а до я!
 <img aling="left" alt="YouTube" width="90px" src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" />
-<img aling="left" alt="Spotify" width="90px" src="https://www.freepnglogos.com/pics/spotify-logo-png" />
+<img aling="left" alt="Spotify" width="90px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-logo-transparent-vector-1.png" />
