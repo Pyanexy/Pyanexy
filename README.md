@@ -6,7 +6,7 @@
 - Small content creator on youtube, enjoys youtube videos.
 - Self taught programmer <br />
 
-### Languages and Tools:
+### Что я знаю и использую в жизни:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
