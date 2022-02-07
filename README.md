@@ -25,3 +25,6 @@
 - SoundCloud <img aling="left" alt="SoundCloud" width="26px" src="https://www.freepnglogos.com/uploads/soundcloud-logo-png/soundcloud-logo-soundcloud-icon-logo-png-transparent-svg-vector-bie-supply-13.png" /> 
 
  Использование **n!play(n!p) ссылка из SoundCloud на любой трек!** круто не правдоли ?<br />
+
+# **Команды [Nutella](https://discord.com/api/oauth2/authorize?client_id=938822820807467079&permissions=17216858176&scope=bot)** <br/>
+- Всего команд 26 делится на **⚙ Редакция, 🔍 Информация, 🎵 Музыка**
