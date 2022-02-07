@@ -16,4 +16,9 @@
 ### **[Nutella Бот](https://discord.com/api/oauth2/authorize?client_id=938822820807467079&permissions=17216858176&scope=bot)**
 - Бот воспроизведения музыки на любом сервере!
 - Типы воспроизведения от а до я!
-<img aling="left" alt="YouTube" width="36px" src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" /> <img aling="left" alt="Spotify" width="36px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-logo-transparent-vector-1.png" /> <img aling="left" alt="SoundCloud" width="36px" src="https://www.freepnglogos.com/uploads/soundcloud-logo-png/soundcloud-logo-soundcloud-icon-logo-png-transparent-svg-vector-bie-supply-13.png" /> <br />
+<img aling="left" alt="YouTube" width="80px" src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" /> 
+- Использование очень лёгкое `n!play(n!p) текст видео/ссылка на видео или плей лист` вот и всё
+<img aling="left" alt="Spotify" width="36px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-logo-transparent-vector-1.png" />
+- Использование платформы Spotify очень распространённое, `n!play(n!p) сыллка на трек или на альбом`
+<img aling="left" alt="SoundCloud" width="36px" src="https://www.freepnglogos.com/uploads/soundcloud-logo-png/soundcloud-logo-soundcloud-icon-logo-png-transparent-svg-vector-bie-supply-13.png" /> 
+- Использование `n!play(n!p) ссылка из SoundCloud на любой трек!` круто не правдоли ?<br />
