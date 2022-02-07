@@ -16,4 +16,4 @@
 ### **[Nutella Бот](https://discord.com/api/oauth2/authorize?client_id=938822820807467079&permissions=17216858176&scope=bot)**
 - Бот воспроизведения музыки на любом сервере!
 - Типы воспроизведения от а до я!
-<img aling=left" alt="YouTube" width="26px" src="https://images.app.goo.gl/wohVYAoJKWQv7D3j6" />
+<img aling="left" alt="YouTube" width="26px" src="https://images.app.goo.gl/wohVYAoJKWQv7D3j6" />
