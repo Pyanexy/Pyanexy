@@ -1,8 +1,8 @@
 ![welcome](https://i.imgur.com/6XHBC84.png) <br/>
-[Discord.js обучение](https://discord.gg/Xy5FnS5rNd)
+**[Discord.js обучение](https://discord.gg/Xy5FnS5rNd)**
 
 
-- Привет всем я *Pyanexy*!
+- Привет всем я **Pyanexy**!
 - В жизни я программист среднего уровня но с уверенностью готов взяться за любой проект.
 - И я использую дискор, так же пишу мелких ботов обучаю бесплатно людей по созданию ботов. <br />
 
@@ -12,3 +12,9 @@
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
+
+# **[Nutella Бот](https://discord.com/api/oauth2/authorize?client_id=938822820807467079&permissions=17216858176&scope=bot)**
+<br/r>
+- Бот воспроизведения музыки на любом сервере!
+- Типы воспроизведения от а до я!
+<img aling=left" alt="YouTube" width="26px" src="https://images.app.goo.gl/wohVYAoJKWQv7D3j6" />
