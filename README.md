@@ -22,7 +22,7 @@
 `n!play(n!p) текст видео/ссылка на видео или плей лист` вот и всё
 <img aling="left" alt="Spotify" width="36px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-logo-transparent-vector-1.png" />
 - Использование платформы Spotify очень распространённое
-``n!play(n!p) сыллка на трек или на альбом`
+`n!play(n!p) сыллка на трек или на альбом`
 <img aling="left" alt="SoundCloud" width="36px" src="https://www.freepnglogos.com/uploads/soundcloud-logo-png/soundcloud-logo-soundcloud-icon-logo-png-transparent-svg-vector-bie-supply-13.png" /> 
 - Использование 
 `n!play(n!p) ссылка из SoundCloud на любой трек!` круто не правдоли ?
