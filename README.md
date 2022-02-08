@@ -74,10 +74,10 @@
 - YouTube <img aling="left" alt="YouTube" width="30px" src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" />
 
  Usage is very light `n!play(n!p) video text/video link or playlist` that's it
-- Spotify <img aling="left" alt="Spotify" width="26px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-logo-transparent-vector- 1.png" />
+- Spotify <img aling="left" alt="Spotify" width="26px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-logo-transparent-vector-1.png" />
 
  Using the Spotify platform is very common `n!play(n!p) link to a track or album`
-- SoundCloud <img aling="left" alt="SoundCloud" width="26px" src="https://www.freepnglogos.com/uploads/soundcloud-logo-png/soundcloud-logo-soundcloud-icon-logo- png-transparent-svg-vector-bie-supply-13.png" />
+- SoundCloud <img aling="left" alt="SoundCloud" width="26px" src="https://www.freepnglogos.com/uploads/soundcloud-logo-png/soundcloud-logo-soundcloud-icon-logo-png-transparent-svg-vector-bie-supply-13.png" />
 
  Using `n!play(n!p) link from SoundCloud to any track!` cool isn't it?<br />
 
@@ -93,9 +93,9 @@
 - Command `n!ping` Information about the delay of the bot. 
  # 🎵 Music 
 - Command `n!play` As above. 
-- The `n!stop` command will stop the entire queue. 
+- Command `n!stop` command will stop the entire queue. 
 - Command `n!skip` Will skip one song. 
-- Team `n!loop` Endless tsikal. 
+- Command `n!loop` Endless tsikal. 
 - Command `n!247` Format 24 by 7 . 
 - Command `n!queue` Show the queue. 
 - Command `n!nowplaying` Shows the currently playing song. 
