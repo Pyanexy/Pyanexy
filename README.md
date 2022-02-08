@@ -81,7 +81,7 @@
 
  Using `n!play(n!p) link from SoundCloud to any track!` cool isn't it?<br />
 
-# **[Nutella] commands(https://discord.com/api/oauth2/authorize?client_id=938822820807467079&permissions=17216858176&scope=bot)** <br/>
+# **[Nutella] commands(https://discord.com/api/oauth2/authorize?client_id=938822820807467079&permissions=17216858176&scope=bot)**
 - Total teams 26
  # ⚙ Revision
 - Command `n!setprefix` The command allows you to change the prefix on the server.
