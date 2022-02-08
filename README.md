@@ -1,3 +1,4 @@
+# Sorry, but I'm from Russia :(. But below is in English :)
 ![welcome](https://media.discordapp.net/attachments/935879275339452567/940284126634868746/20220207_223226.png) <br/>
 # **[Discord.js обучение](https://discord.gg/Xy5FnS5rNd)**
 
@@ -55,3 +56,15 @@
 - Команда `n!join` Nutella зайдёт к вам в войс канал.
 - Команда `n!leave` Nutella выйдет с вашего войс канала.
 - Команда `n!autoplay` Авто музыка. <br />
+
+# ENGLISH <br/>
+# **[Discord.js Tutorial(only Russian)](https://discord.gg/Xy5FnS5rNd)** 
+- Hi everyone, I'm **Pyanexy**! 
+- In my life I am a middle-level programmer, but I am ready to take on any project with confidence. 
+- I usually use discord, I also write small bots and teach people for free on numerous bots. <br /> 
+### What I know and usually in life:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
+<img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
