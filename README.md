@@ -81,17 +81,17 @@
 
  Using `n!play(n!p) link from SoundCloud to any track!` cool isn't it?<br />
 
-# **[Nutella] commands(https://discord.com/api/oauth2/authorize?client_id=938822820807467079&permissions=17216858176&scope=bot)**
+# **Commands [Nutella](https://discord.com/api/oauth2/authorize?client_id=938822820807467079&permissions=17216858176&scope=bot)**
 - Total teams 26
- # ⚙ Revision
+ # ⚙ Settings
 - Command `n!setprefix` The command allows you to change the prefix on the server.
- # 🔍 Information 
+ # 🔍 Informations
 - Command `n!help` Allows you to learn about commands. 
 - Command `n!about` Information about Nutella and Pyanexy. 
 - Command `n!status` Status information about Nutella. 
 - Command `n!invite` Invite Nutella to one of your servers. 
 - Command `n!ping` Information about the delay of the bot. 
- # 🎵 Music 
+ # 🎵 Musics 
 - Command `n!play` As above. 
 - Command `n!stop` command will stop the entire queue. 
 - Command `n!skip` Will skip one song. 
