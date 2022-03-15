@@ -1,7 +1,5 @@
 ![welcome](https://media.discordapp.net/attachments/935879275339452567/940284126634868746/20220207_223226.png) <br/>
-# **[Discord.js обучение](https://discord.gg/Xy5FnS5rNd)**
 
-# RUSSIAN
 - Привет всем я **Pyanexy**!
 - В жизни я программист среднего уровня но с уверенностью готов взяться за любой проект.
 
